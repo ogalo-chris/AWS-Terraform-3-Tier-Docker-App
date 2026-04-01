@@ -1,0 +1,60 @@
+# ------------------------
+# Terraform
+# ------------------------
+*.tfstate
+*.tfstate.*
+crash.log
+*.plan
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# ------------------------
+# Docker
+# ------------------------
+*.log
+docker-compose.override.yml
+.docker/
+.dockerignore
+
+# ------------------------
+# Environment & Secrets
+# ------------------------
+.env
+*.pem
+*.key
+*.crt
+
+# ------------------------
+# OS / Editor / IDE files
+# ------------------------
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VSCode
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Vim / Emacs
+*.swp
+*.swo
+*~
+
+# ------------------------
+# Python (if scripts use it)
+# ------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
