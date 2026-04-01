@@ -63,3 +63,5 @@ __pycache__/
 *.pyo
 *.pyd
 *.pdb
+
+node_modules/
