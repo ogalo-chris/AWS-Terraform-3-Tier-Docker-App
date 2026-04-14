@@ -188,7 +188,7 @@ It also checks for `terraform.tfvars` and asks you to confirm before applying.
 
 ### Deployment
 
-![Deployment screenshot](scripts/deployment.png)
+![Deployment screenshot](https://github.com/ogalo-chris/AWS-Terraform-3-Tier-Docker-App/blob/main/terraform-infra/scripts/deployment.png)
 
 ## Challenges and Solutions
 
