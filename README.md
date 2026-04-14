@@ -190,12 +190,6 @@ It also checks for `terraform.tfvars` and asks you to confirm before applying.
 
 ![Deployment screenshot](screenshots/deployment.png)
 
-### Testing
-
-![Testing screenshot](screenshots/testing.png)
-
-> Note: these images are included as placeholders to show where deployment and testing results belong.
-
 ## Challenges and Solutions
 
 ### 1. Secure database credentials
