@@ -188,7 +188,7 @@ It also checks for `terraform.tfvars` and asks you to confirm before applying.
 
 ### Deployment
 
-![Deployment screenshot](screenshots/deployment.png)
+![Deployment screenshot](scripts/deployment.png)
 
 ## Challenges and Solutions
 
